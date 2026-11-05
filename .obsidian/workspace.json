@@ -201,11 +201,13 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "f893fe4a2eed1754",
+  "active": "bba10175c7ef60f2",
   "lastOpenFiles": [
+    "Textdokument (neu).txt",
     "Willkommen.md"
   ]
 }
